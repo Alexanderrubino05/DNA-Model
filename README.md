@@ -1,15 +1,26 @@
 # DNA-Model
 A Three.js project with a cool DNA-Model made with shaders.
 
-Setup
+<h3>Setup</h3>
 
-Download Node.js. Run this followed commands:
+Download <a href="https://nodejs.org/en" target="_blank">Node.js</a>. Run this followed commands:
 
-# Install dependencies (only the first time)
+<ul>	
+	
+<li>
+Install dependencies (only the first time)
 npm install
+</li>
 
-# Run the local server at localhost:8080
+<li>
+	Run the local server at localhost:8080
 npm run dev
+</li>
 
-# Build for production in the dist/ directory
+<li>
+	Build for production in the dist/ directory
 npm run build
+</li>
+
+</ul>
+	
