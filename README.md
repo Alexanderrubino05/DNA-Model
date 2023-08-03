@@ -8,19 +8,20 @@ Download <a href="https://nodejs.org/en" target="_blank">Node.js</a>. Run this f
 <ul>	
 	
 <li>
-Install dependencies (only the first time)
-npm install
+<h5>Install dependencies (only the first time)</h5>
+<p>npm install</p>
 </li>
 
 <li>
-	Run the local server at localhost:8080
-npm run dev
+<h5>Run the local server at localhost:8080</h5>
+<p>npm run dev</p>
 </li>
 
-<li>
-	Build for production in the dist/ directory
-npm run build
+<li>	
+<h5>Build for production in the dist/ directory<h5>
+<p>npm install</p>
 </li>
 
 </ul>
 	
+<h4>Enjoy!</h4>
