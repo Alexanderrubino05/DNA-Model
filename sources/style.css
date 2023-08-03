@@ -1,0 +1,17 @@
+* {
+    margin:0;
+    padding:0;
+} 
+
+canvas {
+    display: block;
+}
+
+#container {
+    width: 100vw;
+    height: 100vh;
+    position: fixed; /* Not moved by scroll */
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
