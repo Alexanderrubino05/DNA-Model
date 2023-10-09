@@ -19,7 +19,7 @@ Download <a href="https://nodejs.org/en" target="_blank">Node.js</a>. Run this f
 
 <li>	
 <h5>Build for production in the dist/ directory<h5>
-<p>npm install</p>
+<p>npm run build</p>
 </li>
 
 </ul>
